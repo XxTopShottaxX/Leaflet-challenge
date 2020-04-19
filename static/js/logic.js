@@ -81,3 +81,7 @@ d3.json(url, function(data){
         collapsed: true
       }).addTo(map);
  }
+ // Create function to show color legend for magnitude
+ function createLegend(){
+
+ }
